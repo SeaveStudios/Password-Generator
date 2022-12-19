@@ -1,2 +1,2 @@
 # Password-Generator
-lorem ipsum
+Password-Generator made in 5 minutes.
